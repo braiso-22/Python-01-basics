@@ -52,5 +52,5 @@ calcule la media de edad de los mismos. Hacer una segunda versión que solo util
 <li>Diseñar un programa al que se le introduzca la longitud de dos catetos de un ángulo
 recto y nos devuelva el valor de la hipotenusa. Busca en internet como calcular en Java
 potencias y raíces cuadradas para aplicar el teorema de Pitágoras. Investiga también si
-    existe en Java alguna utilidad que nos haga este cálculo automáticamente.</li>
+    existe en Python alguna utilidad que nos haga este cálculo automáticamente.</li>
   </ol>
